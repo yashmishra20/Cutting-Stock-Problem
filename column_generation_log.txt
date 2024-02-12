@@ -1,0 +1,35 @@
+
+Iteration 1:
+Objective value of the master-problem: 669.8272727272728
+New pattern generated: [0, 0, 3, 1, 0, 0]
+Total patterns: 7
+
+Iteration 2:
+Objective value of the master-problem: 647.910606060606
+New pattern generated: [1, 0, 0, 1, 2, 0]
+Total patterns: 8
+
+Iteration 3:
+Objective value of the master-problem: 618.435606060606
+New pattern generated: [0, 0, 0, 3, 0, 4]
+Total patterns: 9
+
+Iteration 4:
+Objective value of the master-problem: 614.4583333333333
+New pattern generated: [0, 1, 0, 3, 0, 0]
+Total patterns: 10
+
+Iteration 5:
+Objective value of the master-problem: 604.824074074074
+New pattern generated: [2, 0, 0, 0, 0, 1]
+Total patterns: 11
+
+Iteration 6:
+Objective value of the master-problem: 598.9699074074074
+New pattern generated: [1, 1, 0, 1, 0, 0]
+Total patterns: 12
+
+Iteration 7:
+Objective value of the master-problem: 597.0185185185185
+New pattern generated: [0, 0, 1, 3, 0, 1]
+Total patterns: 13

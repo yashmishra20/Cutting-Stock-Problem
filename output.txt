@@ -1,0 +1,12 @@
+
+No. of stocks to be cut: 596
+Waste percentage:
+Order Lengths: [110.0, 81.0, 64.0, 51.75, 41.25, 21.5]
+
+Cutting Pattern		No. of times cut
+[0, 3, 0, 0, 0, 0]				91
+[0, 0, 3, 1, 0, 0]				51
+[1, 0, 0, 1, 2, 0]				196
+[0, 0, 0, 3, 0, 4]				8
+[1, 1, 0, 1, 0, 0]				140
+[0, 0, 1, 3, 0, 1]				107
